@@ -1,4 +1,4 @@
-# Programação orientada a objetos 1
+# Programação Orientada a objetos 1
 
 Professor: Danilo Medeiros Eler
 
