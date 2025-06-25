@@ -2,4 +2,4 @@
 
 Professor: Danilo Medeiros Eler
 
-Exercícios e trabalho final
+Exercícios e projeto
